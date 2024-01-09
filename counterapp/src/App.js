@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Simple Counter App</h1>
-      <Counter />
+      
+      <Counter /> 
     </div>
   );
 }
