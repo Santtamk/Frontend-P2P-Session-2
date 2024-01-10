@@ -1,12 +1,11 @@
-
+import logo from './logo.svg';
 import './App.css';
-import Counter from './component/Counter';
+import WeatherApp from './component/WeatherApp';
 
 function App() {
   return (
     <div className="App">
-      <h1>Simple Counter App</h1>
-      <Counter /> 
+      <WeatherApp />
     </div>
   );
 }
